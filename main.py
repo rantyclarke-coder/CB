@@ -267,4 +267,4 @@ async def unmute_user(interaction: discord.Interaction, user: discord.Member):
     await interaction.response.send_message("🔊 User unmuted.")
 
 
-bot.run(TOKEN)
+bot.run(MTQ3NzI0NjAxNTg4MTg3NTQ1Ng.GzkyO_.MVXosE4yMWVNiT5kXb0XiRMsqzl0ye8tPROrA8)
